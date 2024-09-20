@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+
 export default function Dashboard() {
   return (
     <div id="wd-dashboard">
@@ -10,7 +11,7 @@ export default function Dashboard() {
             className="wd-dashboard-course-link"
             to="/Kanbas/Courses/1234/Home"
           >
-            <img src="/images/reactjs.jpg" width={200} />
+            <img src="/images/reactjs.jpg" width={200} alt="React JS Logo" />{" "}
             <div>
               <h5>CS1234 React JS</h5>
               <p className="wd-dashboard-course-title">
