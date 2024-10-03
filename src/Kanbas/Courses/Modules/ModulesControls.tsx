@@ -8,7 +8,7 @@ export default function ModulesControls() {
         id="wd-add-module-btn"
         className="btn btn-lg btn-danger me-1 float-end"
       >
-        <FaPlus className="position-relative me-2" />
+        <FaPlus className="position-relative me-2" style={{ bottom: "1px" }} />
         Module
       </button>
       <div className="dropdown d-inline me-1 float-end">
@@ -23,24 +23,25 @@ export default function ModulesControls() {
         </button>
         <ul className="dropdown-menu">
           <li>
-            <a className="dropdown-item" href="#">
+            <button
+              id="wd-publish-all-modules-and-items-btn"
+              className="dropdown-item"
+            >
               <GreenCheckmark />
               Publish all modules and items
-            </a>
+            </button>
           </li>
           <li>
-            <a className="dropdown-item" href="#">
+            <button
+              id="wd-publish-modules-only-button"
+              className="dropdown-item"
+            >
+              <GreenCheckmark />
               Publish modules only
-            </a>
+            </button>
           </li>
         </ul>
       </div>
-      <button
-        id="wd-collapse-all-btn"
-        className="btn btn-lg btn-secondary float-end"
-      >
-        Collapse All
-      </button>
     </div>
   );
 }
