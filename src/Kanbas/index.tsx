@@ -3,8 +3,7 @@ import Account from "./Account";
 import Dashboard from "./Dashboard";
 import KanbasNavigation from "./Navigation";
 import Courses from "./Courses";
-import "./styles.css";
-import React from "react";
+import "./styles.css"
 
 export default function Kanbas() {
   return (
