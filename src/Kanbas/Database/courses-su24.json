@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "RS101",
+    "name": "Photography 101",
+    "number": "RS4550",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This beginner-level course is designed to help you explore the world of photography by introducing you to the essential techniques, equipment, and creative approaches necessary for capturing compelling images.",
+    "image": "/images/rock.jpg"
+  },
+  {
+    "_id": "RS102",
+    "name": "Intro to Photography",
+    "number": "RS4560",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 3,
+    "description": "This course delves into the principles and practices of spacecraft design, offering students a detailed understanding of the engineering and technology behind spacecraft systems. Key topics include spacecraft structure, propulsion, power systems, thermal control, and payload integration. Emphasizing both theoretical concepts and practical skills, the course prepares students for careers in the space industry, with a focus on innovative design and problem-solving in the context of current and future space missionsBlack and White Film Photography explores the timeless art of monochrome imagery, offering students a hands-on experience with traditional film techniques. In this course, you'll learn the fundamentals of film exposure, developing, and printing in a darkroom.",
+    "image": "/images/aero.jpg"
+  },
+  {
+    "_id": "RS103",
+    "name": "Black and White Film",
+    "number": "RS4570",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "his beginner-level course is designed to help you explore the world of photography by introducing you to the essential techniques, equipment, and creative approaches necessary for capturing compelling images.",
+    "image": "/images/space.jpg"
+  },
+  {
+    "_id": "RS104",
+    "name": "Color Film",
+    "number": "CH1230",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D134",
+    "credits": 3,
+    "description": "his beginner-level course is designed to help you explore the world of photography by introducing you to the essential techniques, equipment, and creative approaches necessary for capturing compelling images.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS105",
+    "name": "Large Format",
+    "number": "CH1240",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D134",
+    "credits": 3,
+    "description": "his beginner-level course is designed to help you explore the world of photography by introducing you to the essential techniques, equipment, and creative approaches necessary for capturing compelling images.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS106",
+    "name": "Medium Format Photography",
+    "number": "CH1250",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D134",
+    "credits": 3,
+    "description": "Hello his beginner-level course is designed to help you explore the world of photography by introducing you to the essential techniques, equipment, and creative approaches necessary for capturing compelling images.",
+    "image": "/images/reactjs.jpg"
+  },
+  {
+    "_id": "RS107",
+    "name": "Portraiture",
+    "number": "ME101",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "Languages",
+    "credits": 3,
+    "description": "his beginner-level course is designed to help you explore the world of photography by introducing you to the essential techniques, equipment, and creative approaches necessary for capturing compelling images.",
+    "author": "654f9ec2ea7ead465908d1e3",
+    "image": "/images/reactjs.jpg"
+  }
+]
